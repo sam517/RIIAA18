@@ -1,6 +1,6 @@
 # RIIAA Escuela18
 
-Repo para la escuela de verano de la RIIAA 2018
+Repositorio escuela de verano de la RIIAA 2018
 
 <p align="center">
 <img src="extra/poster_web_escuela.png">
